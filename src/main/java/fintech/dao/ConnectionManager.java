@@ -11,8 +11,8 @@ public class ConnectionManager {
 
     // Configurações para conexão com Oracle da FIAP
     private static final String URL = "jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL";
-    private static final String USER = "560650"; // Substitua pelo seu RM
-    private static final String PASSWORD = "DtNasc#090103"; // Substitua pela sua data de nascimento
+    private static final String USER = "pf0392";
+    private static final String PASSWORD = "fiap";
 
     static {
         try {
